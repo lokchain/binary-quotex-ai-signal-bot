@@ -2,8 +2,8 @@ streamlit
 numpy
 pandas
 Pillow
-opencv-python
 matplotlib
 mplfinance
 scipy
 requests
+
